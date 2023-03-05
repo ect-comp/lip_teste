@@ -4,7 +4,7 @@
 
 Este diretório contém os slides das aulas do semestre 2022.2
 
-## [07/03 - Apresentação](./01-intro)
+## [07/03 - Apresentação](./slides/01-intro/01-intro.html)
  - Objetivos
  - Metodologia
  - Bibliografia
