@@ -60,16 +60,16 @@ e habilidades desejadas de um bacharel em CeT.
 - Prof. Dr. Bruno Silva
 - Atendimento:
     - Via email: bruno.silva@ect.ufrn.br
-    - Via [Discord](https://discord.gg/JyxEvwKMbE)
-    - Horário para a turma: terças e quintas, das 11h às 12h
+    - Via [Discord](https://discord.gg/JtSUgFdmxd)
+    - Horário para a turma: terças e quintas, das 9:30 às 10:30
 - Áreas de interesse:
     - Processamento de imagens e visão computacional
     - Inteligência artificial e robótica
 ---
 
 ## Sobre a Disciplina
-- Aulas teóricas: terças e quintas, de 20:35 às 22:15,
-  Sala 5 da ECT
+- Aulas teóricas: terças e quintas, de 10:50 às 12:30,
+  Auditório F da ECT
 - Carga horária total: 90 horas
     - Teoria: 60 horas
     - Laboratório: 30 horas
@@ -80,20 +80,16 @@ e habilidades desejadas de um bacharel em CeT.
 ---
 
 ## Laboratórios
-- Horários/professor:
-    - Subturma 4A: Sexta, 14:55 às 16:35, Lab. 1 (Prof. Bruno)
-    - Subturma 4B: Sexta, 16:50 às 18:30, Lab. 1  (Prof. Bruno)
-    - Subturma 4C: Sábado, 10:50 às 12:30, Lab. 3  (Prof. Igor)
-    - Subturma 4D: Sábado, 13:00 às 14:40, Lab. 1  (Prof. Thales)
+- Subturma 1A: Terça, 16:50 às 18:30, Lab. 3 (Prof. Bruno)
+- Subturma 1B: Quarta, 14:55 às 16:35, Lab. 3 (Prof. Vidal)
+- Subturma 1C: Quarta, 16:50 às 18:30, Lab. 3 (Prof. Vidal)
 ---
 
 ## Avaliações
-- Avaliação semanal:
-    - Práticas de laboratório (30%)
-    - Prova prática em cada unidade (70%)
-- Assiduidade
-    - Presenças serão registradas por chamada oral
-      em todas as aulas
+- Práticas semanais no laboratório (30%)
+- Prova prática em cada unidade (70%)
+- Presenças serão registradas por chamada
+  em todas as aulas
 ---
 
 ## Sobre a Disciplina: Observação Importante
@@ -106,31 +102,35 @@ Regimento Interno/UFRN, Seção III:
 ---
 
 ## Cronograma
-### Unidade 1
+#### Unidade 1
 
-<img src="unidade1.png" width=800/>
+![](unidade1.png){width=800}
 
 ---
 
 ## Cronograma
 ### Unidade 2
 
-<img src="unidade2.png" width=800/>
+![](unidade2.png){width=800}
 
 ---
 
 ## Cronograma
 ### Unidade 3
 
-<img src="unidade3.png" width=800/>
+![](unidade3.png){width=800}
 
 ---
 
 ## Livros Utilizados
 
-<img src="livro_lip_ect.png" width=200/>
-<img src="livro1.png" width=180/>
-<img src="livro2.png" width=180/>
+::: {layout-ncol=3}
+![](livro_lip_ect.png){width=200}
+
+![](livro1.png){width=180}
+
+![](livro2.png){width=180}
+:::
 
 ---
 
@@ -163,7 +163,7 @@ do esperado.
 
 ## Perguntas Frequentes
 
-- _Posso utilizar o recurso XYZ (p. ex. vetores) em uma ativiadade, mesmo que ele ainda não tenha sido apresentado em sala de aula? E quanto a recursos não passados pelo professor?_
+- _Posso utilizar o recurso XYZ (p. ex. vetores) em uma atividade, mesmo que ele ainda não tenha sido apresentado em sala de aula? E quanto a recursos não passados pelo professor?_
 Não. Todas as atividades avaliativas são elaboradas de forma que o aluno seja avaliado considerando o conteúdo que a ele foi passado até o momento da atividade.
 ---
 
@@ -176,7 +176,7 @@ algumas fontes de problema na disciplina:
     - Paradoxo: se o aluno não ouve o professor, ele também não irá
       ouvir esta afirmação e portanto, o problema não tem solução
     - Por exemplo: quantos daqui ouviram os argumentos da importância de LiP?
-- Aluno que não está com o preparo necessário para uma atividade
+- Aluno que não estudou o suficiente para uma atividade
 ---
 
 ## Experiências Passadas em LiP
