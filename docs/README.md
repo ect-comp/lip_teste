@@ -1,10 +1,4 @@
-# Linguagem de Programação (ECT/UFRN)
-
-## Bruno Silva <bruno.silva@ect.ufrn.br>
-
-Este diretório contém os slides da Turma 1
-de Linguagem de Programação no semestre 2023.1
-da ECT/UFRN.
+# Slides das Aulas
 
 ## [07/03 - Apresentação](./slides/01-intro/01-intro.html)
  - Objetivos

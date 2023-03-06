@@ -1,6 +1,6 @@
 title: Linguagem de Programação - ECT/UFRN
 logo: /assets/img/logo_ect.png
-description: Slides da disciplina de Linguagem de Programação da ECT/UFRN.
+description: Material da turma 1 de Linguagem de Programação da ECT/UFRN no semestre 2023.2.
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
