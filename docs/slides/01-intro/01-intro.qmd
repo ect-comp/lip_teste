@@ -16,48 +16,38 @@ Perguntas pertinentes sobre Linguagem de Programação (LiP) na ECT:
 ---
 
 ## Linguagem de Programação
-### Relação da Disciplina com o Curso
+#### Competências e Habilidades
 
-- Para responder esta pergunta, é interessante enumerar as competências
-  e habilidades previstas para os bachareis em CeT
-- Fonte: [Projeto Pedagógico do Curso](https://sigaa.ufrn.br/sigaa/public/curso/ppp.jsf?lc=pt_BR&id=10320810)
+O curso de Linguagem de Programação está relacionado
+com várias **competências** e **habilidades** desejáveis
+em **profissionais da engenharia**.
+
 ---
 
 ## Linguagem de Programação
 #### Competências e Habilidades
 
-1. **capacidade de identificar, avaliar e resolver problemas, enfrentar desafios e responder
-a novas demandas da sociedade contemporânea**
-2. **capacidade de comunicação e argumentação em suas múltiplas formas**
-3. **capacidade de atuar em áreas de fronteira e interfaces de diferentes disciplinas e campos de saber**
+- Capacidade de identificar, avaliar e resolver problemas, enfrentar desafios e responder a novas demandas da sociedade contemporânea
+- Capacidade de comunicação e argumentação em suas múltiplas formas
+- Capacidade de atuar em áreas de fronteira e interfaces de diferentes disciplinas e campos de saber
 ---
 
 ## Linguagem de Programação
-### Competências e Habilidades
+#### Competências e Habilidades
 
-4. **atitude investigativa, de prospecção, de permanente busca e produção do conhecimento**
-5. capacidade de reconhecer especificidades regionais ou locais, contextualizando-as e relacionando-as com a situação global
-6. **atitude ética nas esferas profissional, acadêmica e das relações interpessoais**
+- Atitude investigativa, de prospecção, de permanente busca e produção do conhecimento
+- Atitude ética nas esferas profissional, acadêmica e das relações interpessoais
 ---
 
 ## Linguagem de Programação
-### Competências e Habilidades
 
-7. comprometimento com a sustentabilidade nas relações entre ciência, tecnologia, economia, sociedade e ambiente
-8. **capacidade de tomar decisões em cenários de imprecisões e incertezas**
----
-
-## Linguagem de Programação
-### Competências e Habilidades
-
-Como é possível ver, o curso de Linguagem de Programação (LiP)
-é bem completo quanto ao seu envolvimento com as competências
-e habilidades desejadas de um bacharel em CeT.
-
+- Fonte: [Projeto Pedagógico do Curso de Bacharelado em Ciências e Tecnologia](https://sigaa.ufrn.br/sigaa/public/curso/ppp.jsf?lc=pt_BR&id=10320810)
+- Consulte o Projeto Pedagógico do seu curso de engenharia e verifique quais
+competências e habilidades você acha que estão relacionadas com o curso de LiP
 ---
 
 ## Apresentação
-- Prof. Dr. Bruno Silva
+- Prof. Bruno Silva
 - Atendimento:
     - Via email: bruno.silva@ect.ufrn.br
     - Via [Discord](https://discord.gg/JtSUgFdmxd)
@@ -70,19 +60,20 @@ e habilidades desejadas de um bacharel em CeT.
 ## Sobre a Disciplina
 - Aulas teóricas: terças e quintas, de 10:50 às 12:30,
   Auditório F da ECT
-- Carga horária total: 90 horas
-    - Teoria: 60 horas
-    - Laboratório: 30 horas
-- Metodologia
+- Carga horária: 90 horas (30h de laboratório)
+- Metodologia:
     - Aulas expositivas com slides digitais
-    - Apresentação de um tópico de aula seguido por exercícios relacionados
+    - Tópicos de aula seguidos por exercícios
     - Atividades práticas em laboratório
 ---
 
-## Laboratórios
+## Horários dos Laboratórios
 - Subturma 1A: Terça, 16:50 às 18:30, Lab. 3 (Prof. Bruno)
 - Subturma 1B: Quarta, 14:55 às 16:35, Lab. 3 (Prof. Vidal)
 - Subturma 1C: Quarta, 16:50 às 18:30, Lab. 3 (Prof. Vidal)
+
+As atividades práticas serão realizadas no
+[Multiprova](https://multiprova.ufrn.br)
 ---
 
 ## Avaliações
@@ -92,7 +83,7 @@ e habilidades desejadas de um bacharel em CeT.
   em todas as aulas
 ---
 
-## Sobre a Disciplina: Observação Importante
+## Observação Importante
 Regimento Interno/UFRN, Seção III:
 
 - Prevê punições para casos de:
@@ -109,14 +100,14 @@ Regimento Interno/UFRN, Seção III:
 ---
 
 ## Cronograma
-### Unidade 2
+#### Unidade 2
 
 ![](unidade2.png){width=800}
 
 ---
 
 ## Cronograma
-### Unidade 3
+#### Unidade 3
 
 ![](unidade3.png){width=800}
 
@@ -125,7 +116,7 @@ Regimento Interno/UFRN, Seção III:
 ## Livros Utilizados
 
 ::: {layout-ncol=3}
-![](livro_lip_ect.png){width=200}
+![](livro_lip_ect.png){width=250}
 
 ![](livro1.png){width=180}
 
@@ -137,7 +128,8 @@ Regimento Interno/UFRN, Seção III:
 ## Perguntas Frequentes
 
 - _Posso assistir aula em uma subturma de laboratório que não seja a minha?_
-Neste semestre infelizmente não será possível.
+Neste semestre estamos oferecendo esta flexibilidade. Fale com o professor
+responsável pelo seu laboratório.
 
 - _Esta semana tem aula de laboratório?_
 Na disciplina de LiP, os laboratórios são semanais.
